@@ -22,7 +22,7 @@
 - Code along and learn about html5 semantics before you delete do the follwowing commit:
 ## GIT WORKFLOW - Commit message "Semantics"
 # 1:35:39 to 1:39:23
-- Code along and learn about html5 semantics before you delete do the follwowing commit:
-## GIT WORKFLOW - Commit message "Code along until 1:14:06"
+- Code along and learn about html5 entities before you delete do the follwowing commit:
+## GIT WORKFLOW - Commit message "Entities"
 
-## Make sure you provide your commit history in canvas. 
+## Make sure you provide your commit history URL in canvas. 
