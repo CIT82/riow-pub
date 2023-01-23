@@ -9,6 +9,8 @@
 - Before doing the delete at this point in the video, complete the git workflow and then continue with the video. If you want to add back those item that he deleted, remember they are not on github so you can copy them from there, or as he show you can just undo the delete!  KEWL STUFF
 ## 27:19 to 42:21
 - Follow along and create the img folder and if you want go to google images and find a photo to copy into your local system and see if you can find a short video to also include.  
+HEADS UP!  Don't download the video DevEd mentions here, it is too large for git and github to push and can cause and issue.  
+
 ## GIT WORKFLOW -- Commit message "Code along until 42:21"
 
 ## Check out the video for this item on how to submit this work!  Congrats!!!
