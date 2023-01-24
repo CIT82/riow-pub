@@ -5,7 +5,7 @@
 ## GIT WORKFLOW - Commit message "margins and paddings"
 ## 2:20  to 2:28
 - Setup the starting code then code along to learn about the Box Model. At 2:28 he will clean up the html and css, so do this first:
-## GIT WORKFLOW - Commit message "box Model"
+## GIT WORKFLOW - Commit message "box model"
 # 2:28 to 2:42
 - Setup the starting code then code along to learn about the  Pixels, Rem, Em. At 2:28 he will clean up the html and css, so do this first:
  - Before you delete at 2:49, do this first
