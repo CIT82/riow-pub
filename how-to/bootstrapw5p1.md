@@ -1,21 +1,28 @@
-# Bootstrap 5 Crash Course | Website Build & Deploy Week 5 Part 1
-# DO NOT JUST COPY THE CODE FROM GITHUB, YOU WILL LOSE MAJOR POINTS! You can use it for reference when trying to get the output demostrated in the video. 
+# Bootstrap 5 Crash Course Part 1 from Web Dev Simplied 
 
-https://github.com/bradtraversy/bootstrap-bootcamp-website
-## 0 to 14:36 
-- Create a new folder under the lecture folder in your pri repo and name it bootstrap.  Inside that folder create an index.html and style.css.  Follow the video to setup the CDN for the css and javascript (JS) and setup the responsive nav bar. 
-## GIT WORKFLOW - Commit message "setup files and navbar"
+# Watch my video
+- Commit message "setup, cdn and extension"
+
+## 00:00:00 to 00:09:34
+- Code along until the 09:34 timeframe  
+- Commit message "row and columns"
+
+## 00:09:34 to 00:13:56
+- Code along
+- Commit message "columns, breakpoints and offset"
+
+## 00:13:56 to 00:17:37
+- Code along, also use your bootstrap.md file to take a few notes on the concepts cover here. Make sure you commit before he starts tables. 
+- Commit message "nested row and gaps"
+
+## CheckPoint
+
+- Copy the html so that you can change it back after doing your commit below
+
+- Now play around with what you have learned about the grid, so that I can see you have learned how to use the bootstrap css classes.  Document what you tried in your bootstrap.md file with a heading of 
+
+# What I learned
+
+- Commit message "what I learned"
 
 
-## 14:10 to 24:26
-- Code along with video. 
-## GIT WORKFLOW - Commit message "showcase using flex classes"
-
-## 24.:26 to 31:04 
-- Code along with video and make sure you created the style.css and linked it into your index.html.  
-## GIT WORKFLOW - Commit message "newsletter signup"
-## 31:04 to 38:50
-- Code along with the video.  
-## GIT WORKFLOW - Commit message "Learning the grid system"
-
-## Make sure you provide your commit history URL in canvas. 
