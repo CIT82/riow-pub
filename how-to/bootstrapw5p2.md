@@ -1,15 +1,45 @@
-# Bootstrap 5 Crash Course | Website Build & Deploy Week 5 Part 2
-# DO NOT JUST COPY THE CODE FROM GITHUB, YOU WILL LOSE MAJOR POINTS! You can use it for reference when trying to get the output demostrated in the video. 
+# Bootstrap 5 Crash Course Part 2 from Web Dev Simplied 
 
-## 38:50 to 44:38
-- Code along with the video
-## GIT WORKFLOW - Commit message "learn sections"
+# Watch my video
+- 
 
-# 44:38 to 54:50
-- Code along with the video, I know the back and forth on the accordion can be a bit to watch! But hang there to get how he setups it up on the first one and then copy and do the modification of the other questions.
-## GIT WORKFLOW - Commit message "accordion"
-# 54:50 to 1:01:11 
-- Code along with the video and make sure you use the img reference for the photos from the randomuser sits and use different images. 
-## GIT WORKFLOW - Commit message "grid cards
+## 00:17:37 to 00:18:08
+- Code along 
+- You can use the following emmet commands create the output:
+    <pre>table>thead>tr>th*3</pre>
+    <pre>tbody>tr*3>td*3</pre>
+- Then makeup data or use what is in the video
+- Commit message "html and data setup complete"
 
-## Make sure you provide your commit history URL in canvas. 
+## 00:18:08 to 00:22:51
+- Code along
+- Before he moves on the the forms
+- Commit message "table classes"
+
+## we are skipping to buttons at 00:36:05
+## 00:36:05 to 00:40:34
+- Code along
+- Commit message "buttons"
+
+## we are skipping to cards
+## 00:42:29 to 00:46:38
+- Code along
+- Commit message "cards"
+
+## we are skipping to collapse
+## 00:52:05 to 
+- Code up the button for the starting code
+- Code along
+- Commit message "collapse"
+
+## 00:52:05 to 00:54:26
+- Code up the button for the starting code
+- Code along
+- Commit message "collapse"
+
+## 00:54:26 to 1:00:24
+- Code up the button for the starting code
+- Code along
+- Commit message "navbar"
+
+Submit your commit history for the bootstrap folder
