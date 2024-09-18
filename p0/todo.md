@@ -1,0 +1,3 @@
+- [ ] Update the title and meta data
+- [ ] Remove glightbox
+- [ ] Find new profile image assets/img/profile-img.jpg

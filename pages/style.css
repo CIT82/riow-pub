@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+header {
+    background-color: rgb(0, 71, 238);
+    color: rgb(255, 249, 249);
+    padding: 10px 0;
+    /* border: 10px purple dashed; */
+}
+
+main {
+    margin: 15px;
+    padding: 15px;
+    background-color: rgb(215, 221, 225);
+}
+
+ul, ol {
+    list-style-position: inside; 
+}
+    
+    
+footer {
+    background-color: #289ad3;
+    color: white;
+    padding: 10px 0;
+}
+
+label {
+    display: block;
+}
+
+a:visited {
+    color: white;
+}
+.outline {
+    border: 1px black solid;
+} 
+
